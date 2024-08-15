@@ -391,7 +391,7 @@ app.use(express.static(__dirname + '/../public'))
  # agora como ultimo passo salve e comite o código no terminal
  
  ``` ts
- git add .
+git add .
 git commit -m ...
 git push origin maingit add .
 ```
