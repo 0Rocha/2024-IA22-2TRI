@@ -393,5 +393,11 @@ app.use(express.static(__dirname + '/../public'))
  ``` ts
 git add .
 git commit -m ...
+<<<<<<< HEAD
 git push origin maingit add .
 ```
+=======
+git push origin maingit add 
+
+```
+>>>>>>> 019cee3 (...)
