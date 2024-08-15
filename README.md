@@ -388,7 +388,7 @@ app.use(express.static(__dirname + '/../public'))
 
  ```
 
- # agora vamo para terminar salve e comite o código usando 
+ # agora como ultimo passo salve e comite o código no terminal
  
  ``` ts
  git add .
