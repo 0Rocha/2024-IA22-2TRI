@@ -13,7 +13,7 @@ mkdir src
 touch src/app.ts
 ```
 <div style="display: incline_block"><br/>
-  <img align="center> alt="c" src="/workspaces/2024-IA22-2TRI/ignore/imagens/IMG-20240808-WA0012.jpg" />
+  <img align="center> alt="c" src="ignore/imagens/IMG-20240808-WA0012.jpg" />
 </div>
 
 
