@@ -76,7 +76,7 @@ app.listen(port, () => {
 ```
 
 <div style="display: incline_block"><br/>
-  <img align="center> alt="c" src="/workspaces/2024-IA22-2TRI/ignore/imagens/IMG-20240808-WA0015.jpg" />
+  <img align="center> alt="c" src="ignore/imagens/IMG-20240808-WA0015.jpg" />
 </div>
 
 
@@ -88,7 +88,7 @@ app.listen(port, () => {
 npm run dev
 ```
 <div style="display: incline_block"><br/>
-  <img align="center> alt="c" src="/workspaces/2024-IA22-2TRI/ignore/imagens/IMG-20240808-WA0014.jpg" />
+  <img align="center> alt="c" src="ignore/imagens/IMG-20240808-WA0014.jpg" />
 </div>
 #### Se tudo ocorrer bem, você verá a mensagem Server running on port 3333 no terminal.
 
@@ -163,7 +163,7 @@ app.listen(port, () => {
 # Testando a inserção de dados
 ### clique "Ctrl+Shift+X" e instale extenção "Rest Client", após isso pressione "Ctrl+Shift+E". Crie um novo arquivo chamado `Teste.http` dentro desse arquivo insira o código:
 <div style="display: incline_block"><br/>
-  <img align="center> alt="c" src="/workspaces/2024-IA22-2TRI/ignore/imagens/IMG-20240808-WA0013.jpg" />
+  <img align="center> alt="c" src="ignore/imagens/IMG-20240808-WA0013.jpg" />
 </div>
 ### insira um *_`Insira um nome e email`_*
 
@@ -391,13 +391,6 @@ app.use(express.static(__dirname + '/../public'))
  # agora como ultimo passo salve e comite o código no terminal
  
  ``` ts
-git add .
-git commit -m ...
-<<<<<<< HEAD
-git push origin maingit add .
-```
-=======
-git push origin maingit add 
+git add --all; git commit -m ...; git push
 
-```
->>>>>>> 019cee3 (...)
+ ```
